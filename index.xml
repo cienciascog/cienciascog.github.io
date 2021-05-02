@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charlas on Cayman</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Charlas on Cayman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acerca De</title>
+      <link>https://example.com/presentacion/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/presentacion/</guid>
+      <description>Durante los últimos años Chile ha visto un marcado aumento en el número de investigaciones dedicadas al estudio de la cognición. Este interés ha estado manifiesto en las distintas disciplinas que hoy conforman las ciencias cognitivas (e.g., lingüística, psicología, filosofía, neurociencias, inteligencia artificial, etc.).
+El objetivo del presente ciclo de charlas es reunir investigadores chilenos trabajando en ciencias cognitivas, proporcionando así un mapa de los temas de investigación desarrollados actualmente a nivel nacional.</description>
+    </item>
+    
+    <item>
+      <title>Detección de Intencionalidad y Razonamiento Predictivo</title>
+      <link>https://example.com/posts/charla-1/</link>
+      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/charla-1/</guid>
+      <description>Ramón Castillo Guevara, PhD.
+Research Center on Cognitive Science, http://cicc.utalca.cl/
+Universidad de Talca
+En esta charla, Ramón Castillo nos habla sobre las principales líneas de investigación que actualmente se desarrollan en el Centro de Investigación en Ciencias Cognitivas de la Universidad de Talca. La charla comienza con la presentación de una serie de estudios sobre atribución de intencionalidad a objetos animados, cuyos resultados sugieren que el tipo de movimiento puede influenciar la atribución de intencionalidad, abriendo así una prometedora línea de estudio.</description>
+    </item>
+    
+    <item>
+      <title>Organizadores</title>
+      <link>https://example.com/organizadores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/organizadores/</guid>
+      <description>Guillermo Puebla Ramírez Guillermo es candidato a doctor en Psicología (Universidad de Edimburgo) e investigador asociado de la Universidad de Bristol. Su investigación se ubica en la intersección entre psicología cognitiva e inteligencia artificial.
+Su trabajo se centra en cómo los seres humanos y las redes neuronales artificiales representan relaciones abstractas. También estudia la influencia del conocimento causal en el proceso de categorización.
+Pueden encontrar a Guillermo en twitter y en su sitio web.</description>
+    </item>
+    
+    <item>
+      <title>RSS</title>
+      <link>https://example.com/rss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/rss/</guid>
+      <description>Siguenos en twitter y en accede a todas las charlas en nuestro canal en youtube.</description>
+    </item>
+    
+  </channel>
+</rss>
